@@ -77,7 +77,7 @@ var preguntas = [
     {'id':1,'respuesta':'hola23'},
     {'id':2,'respuesta': 'hola5'},
     {'id':3,'respuesta':'hola 5'}
-  ],'correcta':2},
+  ],'correcta':1},
   {'pregunta':'width:500px;' ,
   'respuestas':[
     {'id':1,'respuesta':'Aplicación que nos permite ingresar a la web'},
@@ -208,12 +208,12 @@ var preguntas = [
   'respuestas':[
     {'id':1,'respuesta':'Es la cantidad de dinero que ganamos de la venta de un bien o servicio'},
     {'id':2,'respuesta': 'Es la cantidad de dinero que se necesita para comprar un bien o servicio'},
-    {'id':3,'respuesta':'Es la cantidad de dinero que se necesita para comprar un bien o servicio'}
+    {'id':3,'respuesta':'Es la cantidad de dinero que se necesita para fabricar un bien o servicio'}
   ],'correcta':3},
   {'pregunta':'¿Qué es la ganancia?' ,
   'respuestas':[
     {'id':1,'respuesta':'Es la cantidad de dinero que se necesita para comprar un bien o servicio'},
-    {'id':2,'respuesta': 'Es la cantidad de dinero que se necesita para comprar un bien o servicio'},
+    {'id':2,'respuesta': 'Es la cantidad de dinero que se necesita para fabricar un bien o servicio'},
     {'id':3,'respuesta':'Es la cantidad de dinero que ganamos de la venta de un bien o servicio'}
   ],'correcta':3},
   {'pregunta':'margin:100px;' ,
@@ -251,7 +251,7 @@ var preguntas = [
     {'id':1,'respuesta':'Lenguaje diseñado para agregar estilo a una página web'},
     {'id':2,'respuesta': 'Lenguaje diseñado para realizar o maquetar la estructura de nuestra página web'},
     {'id':3,'respuesta':'Lenguaje diseñado para agregar interactividad a nuestra página web'}
-  ],'correcta':2}
+  ],'correcta':1}
 ];
 
 
